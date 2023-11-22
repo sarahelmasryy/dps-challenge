@@ -1,0 +1,10 @@
+Dockerfile
+README.md
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+monatszahlen2307_verkehrsunfaelle_10_07_23_nosum.csv
+AI_model.ipynb
+image_forecasting
+test
